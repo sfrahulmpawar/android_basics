@@ -1,2 +1,2 @@
 # android_basics
-This repository is for the basic android applications.
+This repository is for understanding the basics android applications.
